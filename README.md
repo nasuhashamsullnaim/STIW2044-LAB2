@@ -1,6 +1,6 @@
-# Hi, this is my STIW2044 Lab 2 
+### Hi, this is my STIW2044 Lab 2 
 
-A new Flutter project.
+Splash screen, login screen and register screen
 
 ## Getting Started
 
