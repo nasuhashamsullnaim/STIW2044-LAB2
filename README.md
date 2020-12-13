@@ -1,4 +1,4 @@
-# deafzone2
+# Hi, this is my STIW2044 Lab 2 
 
 A new Flutter project.
 
